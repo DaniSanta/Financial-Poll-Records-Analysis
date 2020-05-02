@@ -4,7 +4,7 @@
 
 ![Revenue](Images/revenue-per-lead.png)
 
-* I have created a Python script for analyzing the financial records of your company. Given a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
+* I have created a Python script for analyzing the financial records of your company. Given a set of financial data called [budget_data.csv](PyBank/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
 
 * My task is to create a Python script that analyzes the records to calculate each of the following:
 
@@ -38,7 +38,7 @@
 
 * I am tasked with helping a small, rural town modernize its vote-counting process. 
 
-* I was given a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. My task is to create a Python script that analyzes the votes and calculates each of the following:
+* I was given a set of poll data called [election_data.csv](PyPoll/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. My task is to create a Python script that analyzes the votes and calculates each of the following:
 
   * The total number of votes cast
 
